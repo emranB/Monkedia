@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body { background: lightgray; }
+
+/*********************** Customs ************************/
+.color-dark  { color: #3f1dcb; }
+.color-mild  { color: #7c4dff; }
+.color-light { color: #b47cff; }
+
+.bgc-dark    { background-color: #3f1dcb; }
+.bgc-mild    { background-color: #7c4dff; }
+.bgc-light   { background-color: #b47cff; }
+
+.font-one    { font-family: 'Bangers', cursive; }
+.font-two    { font-family: 'Hind Vadodara', sans-serif; }
+.font-three  { font-family: 'Song Myung', serif; }
+/********************************************************/
+
+.padded { padding: 2.5vh; }
+
+
+.top-bar .space-holder {
+  height: 2.5vh;
+}
+.top-bar .text {
+  padding: 5vh;
+  color: white;
+  font-size: 7.5vh;
+  letter-spacing: 2px;
+  box-shadow: 0px 5px 0px 0px #3f1dcb;
+}
+
+
+.loginForm { padding: 2.5vh; }
+
+
+table { border: 2px solid black; }
